@@ -1,2 +1,3 @@
 # Financial_agentic
-financial agentic ai
+Financial Agentic AI
+
