@@ -1,2 +1,2 @@
-# financial_agentic
+# Financial_agentic
 financial agentic ai
